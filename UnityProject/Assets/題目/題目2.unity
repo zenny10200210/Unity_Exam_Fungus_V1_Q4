@@ -646,7 +646,7 @@ MonoBehaviour:
     stringVal: 
   _duration:
     floatRef: {fileID: 0}
-    floatVal: 1
+    floatVal: 0.8
   easeType: 2
   loopType: 0
   stopPreviousTweens: 0
@@ -731,9 +731,9 @@ MonoBehaviour:
     width: 1114
     height: 859
   selectedBlocks:
-  - {fileID: 545606721}
+  - {fileID: 545606698}
   selectedCommands:
-  - {fileID: 545606717}
+  - {fileID: 545606697}
   variables:
   - {fileID: 545606720}
   description: 
@@ -839,7 +839,7 @@ MonoBehaviour:
     stringVal: 
   _duration:
     floatRef: {fileID: 0}
-    floatVal: 1
+    floatVal: 0.8
   easeType: 2
   loopType: 0
   stopPreviousTweens: 0
@@ -942,7 +942,7 @@ MonoBehaviour:
     stringVal: 
   _duration:
     floatRef: {fileID: 0}
-    floatVal: 1
+    floatVal: 0.8
   easeType: 2
   loopType: 0
   stopPreviousTweens: 0
@@ -1045,7 +1045,7 @@ MonoBehaviour:
     stringVal: 
   _duration:
     floatRef: {fileID: 0}
-    floatVal: 1
+    floatVal: 0.8
   easeType: 2
   loopType: 0
   stopPreviousTweens: 0
@@ -1148,7 +1148,7 @@ MonoBehaviour:
     stringVal: 
   _duration:
     floatRef: {fileID: 0}
-    floatVal: 1
+    floatVal: 0.8
   easeType: 2
   loopType: 0
   stopPreviousTweens: 0
@@ -1326,7 +1326,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   itemId: 27
   indentLevel: 1
-  storyText: "{color=red}\u860B\u679C\u5403\u5B8C\u56C9!{/color}"
+  storyText: "{punch=10,0.5} {color=red}\u860B\u679C\u5403\u5B8C\u56C9!{/color}"
   description: 
   character: {fileID: 0}
   portrait: {fileID: 0}
